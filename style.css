@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f9;
+    font-family: "Arial", sans-serif;
+}
+
+.navbar {
+    border-bottom: 3px solid #003366;
+}
+
+h1,
+h2 {
+    color: #003366;
+}
+
+.card-title {
+    color: #003366;
+}
+
+footer {
+    background-color: #003366;
+}
+
+footer p {
+    margin-bottom: 0;
+}
